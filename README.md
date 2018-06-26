@@ -2,7 +2,7 @@
 
 Live Project : [Here](https://github.com/Ochowo/Udacity-Pixel-Art-Game/).
 
-# **Instructions**
+## **Instructions**
 1. Select the desired height and width using the width and height input select boxes, then click on submit to creat the grid.
 2. Select a color using the color picker input box.
 3. Click on any box in the grid to fill up with selected color.
