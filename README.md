@@ -7,7 +7,7 @@ Live Project : [Here](https://github.com/Ochowo/Udacity-Pixel-Art-Game/).
 2. Select a color using the color picker input box.
 3. Click on any box in the grid to fill up with selected color.
 4. You can add more colors by clicking on the color picker input box and repeat step #3.
-5. Repeat step #2and #3 till you acheive the design you want.
+5. Repeat step #2 and #3 till you acheive the design you want.
 5. Click submit to change the grid.
 
 
